@@ -1,0 +1,19 @@
+.profile-img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+    display:block;
+    margin:20px auto;
+    border:3px solid black;
+}
+body{
+    background-color:skyblue;
+    h1{
+        color:blue;
+    }
+    p{
+        font-size:18px;
+        color:rgb(15, 15, 180);
+    }
+}
